@@ -92,7 +92,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developer', url='https://t.me/rashmikamandannaofficial1'),
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/smplmcube/7')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/MCubeMediaofficial')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
